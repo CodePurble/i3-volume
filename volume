@@ -1167,9 +1167,9 @@ main() {
 
     # Emoji-based icons.
     declare -a ICONS_EMOJI=(
-        ﱝ
+        婢
         墳
-        奄
+        奔
         奔
     )
 
